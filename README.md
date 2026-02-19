@@ -7,8 +7,8 @@ Incident Analyst within telecom. Interested in structured troubleshooting, root 
 I also build small experiments in automation, AI tools, and creative projects.
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/henrik-litmanen-7550aa167?originalSubdomain=se
+- LinkedIn: https://www.linkedin.com/in/henrik-litmanen-7550aa167
 
-- Medium/Substack:
+- Medium/Substack: https://medium.com/@henriklitmanen/henrik-litmanen-telecom-incident-analyst-technology-troubleshooting-and-creative-projects-3c2656c56e0a
 
 Based in Sweden
