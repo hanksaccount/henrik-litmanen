@@ -10,3 +10,5 @@ I also build small experiments in automation, AI tools, and creative projects.
 - LinkedIn: https://www.linkedin.com/in/henrik-litmanen-7550aa167?originalSubdomain=se
 
 - Medium/Substack:
+
+Based in Sweden
