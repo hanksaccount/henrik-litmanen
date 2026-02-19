@@ -1,5 +1,6 @@
 # henrik-litmanen
-Personal hub: work, projects, links
+Personal hub for Henrik Litmanen: work, projects, links
+
 
 Incident Analyst within telecom. Interested in structured troubleshooting, root cause analysis and process improvement.
 
